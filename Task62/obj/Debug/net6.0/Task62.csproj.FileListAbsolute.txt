@@ -3,3 +3,13 @@ C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\Ta
 C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\Task62.AssemblyInfoInputs.cache
 C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\Task62.AssemblyInfo.cs
 C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\Task62.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\bin\Debug\net6.0\Task62.exe
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\bin\Debug\net6.0\Task62.deps.json
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\bin\Debug\net6.0\Task62.runtimeconfig.json
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\bin\Debug\net6.0\Task62.dll
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\bin\Debug\net6.0\Task62.pdb
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\Task62.dll
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\refint\Task62.dll
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\Task62.pdb
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\Task62.genruntimeconfig.cache
+C:\Users\1\Desktop\GB\C# (C Sharp)\Seminar_8\Homework\Task62\obj\Debug\net6.0\ref\Task62.dll

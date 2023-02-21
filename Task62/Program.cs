@@ -6,36 +6,28 @@
 10 09 08 07
 */
 
+int length = 4;
 
-int[,] InitMatrix()
-{
-    int[,] matrix = new int[3,4];
-    Random rnd = new Random();
-
-    for (int i = 0; i < matrix.GetLength(0); i++)
-    {
-        for (int j = 0; j < matrix.GetLength(1); j++)
-        {
-            matrix[i,j] = rnd.Next(1,10);
-        }
-    }
-
-    return matrix;
-}
-
+//  Функция вывода двумерного массива в терминал
 void PrintMatrix(int[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            Console.Write($"{matrix[i,j]} ");
+            if (matrix[i, j] < 10)
+            {
+                Console.Write("0" + matrix[i, j]);
+                Console.Write(" ");
+            }
+            else Console.Write(matrix[i, j] + " ");
         }
         Console.WriteLine();
     }
 }
 
 
+//  Функция заполнения массива по спирали начиная с 1
 void FillArraySpiral(int[,] matrix, int n)
 {
     int i = 0, j = 0;
@@ -52,11 +44,10 @@ void FillArraySpiral(int[,] matrix, int n)
     }
 }
 
-int length = 4;
-int[,] matrix = InitMatrix();
-PrintMatrix(matrix); 
-int[,] sqmatrix = new int[length, length];
-FillArraySpiral(sqmatrix, length);
-PrintMatrix(sqmatrix);
+
+
+int[,] Sqmatrix = new int[length, length];
+FillArraySpiral(Sqmatrix, length);
+PrintMatrix(Sqmatrix);
 
 
